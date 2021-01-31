@@ -1,5 +1,6 @@
 apm-server:
   host: 0.0.0.0:8200
+  secret_token: 'x%:D3.iCkS"mw+S'
 
 output:
   elasticsearch:
