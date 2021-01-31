@@ -54,6 +54,7 @@ services:
       - elk
     depends_on: 
       - kibana
+      - apm
 
 networks: 
   elk:
